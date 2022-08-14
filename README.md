@@ -1,4 +1,4 @@
-# 3D_Printer_Testing 🖨️
+# 3D_Printer_Prints 🖨️
 Three print tests for my Ender 3. 
 
 After nearly half of year of doubt I got into 3D printer and successfully ran three decent prints. 
@@ -7,6 +7,7 @@ The 3D dog does contain quite the smile 😀 due to running out of filament midw
 
 I opted to use black filament instead, which gave me a cow patterned dog.
 
+## 08/01/2022
 ### X Test ❌
 
 The X test is critical to seeing if your extruder has enough squish with the Ender's bed. I made sure to look out for any ridges and gaps since the ridges indicate there is too much squish, while gaps indicate too little.
@@ -26,3 +27,25 @@ Cal the dog is the print that I learnt most from not from it taking 2.5 hours, b
 Fortuantely my printer was smart enough to pull the black filament forward as it did with the old one.
 
 ![dog_show](https://user-images.githubusercontent.com/87344382/182010941-4f757c33-1eb6-45b2-8727-eae9b3af4c56.png)
+
+## 08/13/2022
+
+### Cup Print
+
+On Fusion 360, I designed my own cup for learning the fundamentals of how to 
+user that CAD software. I now use it a little garbage bin for electronic
+components or scraps when working on electronics projects and ones like these.
+
+
+
+### Xbox 360 Controller Stand Print
+
+I printed an Xbox 360 Controller stand I found on ![thingiverse](https://www.thingiverse.com/thing:1012779).
+However a fatal flaw of mine was not orienting the stand correctly for the print, 
+so I had a botched job. However, from such mistakes comes confidence as know I
+now what to do next time, particularly that I have control over the orientation 
+of my prints. Also my Xbox 360 controllers stood well in the stand. Although,
+I am not much of a gamer anymore I do enjoy them as a DVD player and general
+media device. 
+
+
