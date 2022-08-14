@@ -43,6 +43,6 @@ of my prints. Also my Xbox 360 controllers stood well in the stand. Although,
 I am not much of a gamer anymore I do enjoy them as a DVD player and general
 media device. 
 
-![xbox-360-control-stand](https://user-images.githubusercontent.com/87344382/184528016-8d7dc9dd-354e-4372-b21f-16b4a84ba7e4.png)
+![Xbox360-Controller-Stand](https://user-images.githubusercontent.com/87344382/184528117-c7c25302-079a-458c-8425-e368fb932482.png)
 
 
