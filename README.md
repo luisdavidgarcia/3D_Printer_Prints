@@ -36,7 +36,7 @@ On Fusion 360, I designed my own cup for learning the fundamentals of how to
 user that CAD software. I now use it a little garbage bin for electronic
 components or scraps when working on electronics projects and ones like these.
 
-
+![Cup_Print_15mm](https://user-images.githubusercontent.com/87344382/184527523-c9fc63f2-d39a-4cef-bdaf-c16b936d4788.png)
 
 ### Xbox 360 Controller Stand Print
 
