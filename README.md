@@ -40,7 +40,7 @@ components or scraps when working on electronics projects and ones like these.
 
 ### Xbox 360 Controller Stand Print
 
-I printed an Xbox 360 Controller stand I found on ![thingiverse](https://www.thingiverse.com/thing:1012779).
+I printed an Xbox 360 Controller stand I found on <a href="https://www.thingiverse.com/thing:1012779">thingiverse</a>.
 However a fatal flaw of mine was not orienting the stand correctly for the print, 
 so I had a botched job. However, from such mistakes comes confidence as know I
 now what to do next time, particularly that I have control over the orientation 
