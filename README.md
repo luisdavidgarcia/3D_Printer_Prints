@@ -1,11 +1,6 @@
 # 3D_Printer_Prints 🖨️
-Three print tests for my Ender 3. 
 
-After nearly half of year of doubt I got into 3D printer and successfully ran three decent prints. 
-
-The 3D dog does contain quite the smile 😀 due to running out of filament midway. I panicked, but I unconciously paused the print job to think of a solution. 
-
-I opted to use black filament instead, which gave me a cow patterned dog.
+A collection and blog of my 3D printing Journey. Feel free to take the STL files from the print folder.
 
 ## 08/01/2022
 ### X Test ❌
