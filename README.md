@@ -45,4 +45,11 @@ media device.
 
 ![Xbox360-Controller-Stand](https://user-images.githubusercontent.com/87344382/184528117-c7c25302-079a-458c-8425-e368fb932482.png)
 
+## 08/17/2022
+
+### Smiley Face Print (Made with Fusion 360)
+
+I made a smiley face print using Fusion 360 and the constraints features to simplify the editing process in case I want to make any design changes. I mainly only used circles and elipses to create the smiley face. For the smile I used two overlapping elipses and extruded the lower half. Then for the eyes I added more elipses for the iris of the eye and used through extruding I was able to create the shape of the eyes. However, I did discover I was printing to close to the bed since my first layer had elephant foot, but overall my Ender v3 performed better than expected and got the job done. Also I had to use a mallet and chisel to separate my print from the printer bed. 
+
+![Smiley](https://user-images.githubusercontent.com/87344382/185729726-c0023d2c-6535-434a-87e3-d6212e89778e.png)
 
