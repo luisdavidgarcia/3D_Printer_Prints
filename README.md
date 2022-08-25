@@ -2,6 +2,13 @@
 
 A collection and blog of my 3D printing Journey. Feel free to take the STL files from the print folder.
 
+# Table of Contents
+
+- [08/21/2022](#08212022)
+- [08/17/2022](#08172022)
+- [08/13/2022](#08132022)
+- [08/01/2022](#08012022)
+
 ## 08/21/2022
 
 ### Poodle and Cutter Cap
@@ -41,6 +48,7 @@ media device.
 ![Xbox360-Controller-Stand](https://user-images.githubusercontent.com/87344382/184528117-c7c25302-079a-458c-8425-e368fb932482.png)
 
 ## 08/01/2022
+
 ### X Test ❌
 
 The X test is critical to seeing if your extruder has enough squish with the Ender's bed. I made sure to look out for any ridges and gaps since the ridges indicate there is too much squish, while gaps indicate too little.
