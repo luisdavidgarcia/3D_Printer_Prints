@@ -2,6 +2,14 @@
 
 A collection and blog of my 3D printing Journey. Feel free to take the STL files from the print folder.
 
+## 08/21/2022
+
+### Poodle and Cutter Cap
+
+The cutter cap was a simple print I attained from this thingverse <a href="https://www.thingiverse.com/thing:5454654">page</a>. However, the poodle required me to learn about custom supports in Cura and enable the bridge settings. Only then could I successfully print the poodle otherwise it became a stringy mess. I did break one of the legs, but hot glue fixed that and it taught me to not jumble supports that close together as that was what caused the leg to snap off. Other than that one hiccup the prints were an overall success and now with the cutter cap my cutters are not piercieng holes in my bag anymore. 
+
+![cap_and_poodle.png](https://user-images.githubusercontent.com/87344382/186775448-b1c4dbbb-6e31-419e-9982-287d0168aae8.png)
+
 ## 08/17/2022
 
 ### Smiley Face Print (Made with Fusion 360)
