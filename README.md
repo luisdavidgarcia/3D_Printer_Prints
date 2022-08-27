@@ -4,10 +4,19 @@ A collection and blog of my 3D printing Journey. Feel free to take the STL files
 
 # Table of Contents
 
+- [08/25/2022](#08242022)
 - [08/21/2022](#08212022)
 - [08/17/2022](#08172022)
 - [08/13/2022](#08132022)
 - [08/01/2022](#08012022)
+
+## 08/25/2022
+
+### Ender 3 v2 Upgrades
+
+I utilized the following stl files from Thingverse to upgrade my 3D printer: <a href="https://www.thingiverse.com/thing:2917932">ender3 filament guide</a>, <a href="https://www.thingiverse.com/thing:2894097/comments">ender3 filament guide input</a>, and <a href="https://www.thingiverse.com/thing:2935204/files">ender 3 board fan guard</a>. I want my printer to last a long time, so with these upgrades I am hoping to give it some years by preventing broken components and ink from following into the fans. 
+
+![ender3_upgrades.png](https://user-images.githubusercontent.com/87344382/187041944-c6082e1f-d6e2-43f7-9cb9-7c4e0689513d.png)
 
 ## 08/21/2022
 
